@@ -33,6 +33,7 @@ button:hover {
   color: #333;
 }
 =======
+<<<<<<< HEAD
 body {
   font-family: "Times New Roman", Times, serif, sans-serif;
   background-color: #f4f4f4;
@@ -66,4 +67,39 @@ button:hover {
   margin-top: 20px;
   color: #333;
 }
+=======
+body {
+  font-family: "Times New Roman", Times, serif, sans-serif;
+  background-color: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+#outputBox {
+  margin-top: 20px;
+  color: #333;
+}
+>>>>>>> 7696c05a71c501a88a18722f3f74081414eda08d
 >>>>>>> 4c6b2d78871d51678ff8982a356e2c132b287bd0
